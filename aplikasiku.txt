@@ -1,5 +1,5 @@
 Aplikasi Mathatter
-- Menyelesaikan Sijanet
 - Membuat New Project
 - Membuat cafe
 - Membuat aplikasi dagang
+- membuat vlog
